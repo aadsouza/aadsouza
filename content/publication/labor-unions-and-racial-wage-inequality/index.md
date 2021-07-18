@@ -4,6 +4,7 @@ publication_types:
   - "7"
 authors:
   - Amedeus Akira Dsouza
+publication: Honours Thesis
 abstract: The stalling of convergence in racial wage inequality among men and
   the exacerbating Black-white wage gap among women coupled with higher
   de-unionization rates for Black people provokes an inquiry into the effects of
@@ -19,13 +20,12 @@ abstract: The stalling of convergence in racial wage inequality among men and
 draft: false
 featured: true
 slides: ""
+url_pdf: https://aadsouza.github.io/econ499/Labor_Unions_and_Racial_Wage_Inequality.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2021-05-19T00:00:00.000Z
-url_pdf: https://aadsouza.github.io/econ499/Labor_Unions_and_Racial_Wage_Inequality.pdf
-url_code: https://github.com/aadsouza/econ499
 url_slides: https://aadsouza.github.io/econ499/thesis-defense-slides.pdf
-
+url_code: https://github.com/aadsouza/econ499
 ---
