@@ -1,7 +1,7 @@
 ---
 title: Labor Unions and Racial Wage Inequality
 publication_types:
-  - "7"
+  - "Honours Thesis"
 authors:
   - Amedeus Akira Dsouza
 publication: "**Honours Thesis**"
