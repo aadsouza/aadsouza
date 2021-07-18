@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amedeus Akira Dsouza
+title: Amedeus Akira Dsouza <span style="color:gray; font-size=2em">he/him/his</span>.
 
 # Is this the primary user of the site?
 superuser: true
