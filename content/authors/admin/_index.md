@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/aadsouza_
 - icon: cv
   icon_pack: ai
-  link: https://sites.google.com/view/aadsouza/resume #FIXME update
+  link: 'uploads/resume.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
