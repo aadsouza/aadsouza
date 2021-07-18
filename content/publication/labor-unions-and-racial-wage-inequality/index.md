@@ -24,5 +24,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-05-19T00:00:00.000Z
+url_pdf: https://aadsouza.github.io/econ499/Labor_Unions_and_Racial_Wage_Inequality.pdf
+url_code: https://github.com/aadsouza/econ499
 url_slides: https://aadsouza.github.io/econ499/thesis-defense-slides.pdf
+
 ---
