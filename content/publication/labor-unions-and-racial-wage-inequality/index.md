@@ -4,7 +4,7 @@ publication_types:
   - "7"
 authors:
   - Amedeus Akira Dsouza
-publication: Honours Thesis
+publication: "**Honours Thesis**"
 abstract: The stalling of convergence in racial wage inequality among men and
   the exacerbating Black-white wage gap among women coupled with higher
   de-unionization rates for Black people provokes an inquiry into the effects of
