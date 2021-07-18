@@ -3,7 +3,7 @@ title: Labor Unions and Racial Wage Inequality
 publication_types:
   - "7"
 authors:
-  - aadsouza
+  - Amedeus Akira Dsouza
 abstract: The stalling of convergence in racial wage inequality among men and
   the exacerbating Black-white wage gap among women coupled with higher
   de-unionization rates for Black people provokes an inquiry into the effects of
@@ -18,7 +18,7 @@ abstract: The stalling of convergence in racial wage inequality among men and
   strongest.
 draft: false
 featured: true
-slides: ""
+slides: https://aadsouza.github.io/econ499/thesis-defense-slides.pdf
 image:
   filename: featured
   focal_point: Smart
