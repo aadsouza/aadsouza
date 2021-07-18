@@ -18,7 +18,7 @@ abstract: The stalling of convergence in racial wage inequality among men and
   strongest.
 draft: false
 featured: true
-slides: https://aadsouza.github.io/econ499/thesis-defense-slides.pdf
+slides: ""
 image:
   filename: featured
   focal_point: Smart
