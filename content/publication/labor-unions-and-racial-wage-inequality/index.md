@@ -24,4 +24,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-05-19T00:00:00.000Z
+url_slides: https://aadsouza.github.io/econ499/thesis-defense-slides.pdf
 ---
