@@ -59,6 +59,4 @@ highlight_name: false
 
 I am a Pre-Doctoral Research Professional for [Professor Chang-Tai Hsieh](https://www.chicagobooth.edu/faculty/directory/h/chang-tai-hsieh) and [Professor Erik Hurst](https://www.chicagobooth.edu/faculty/directory/h/erik-hurst) at the [Becker Friedman Institute for Economics](https://bfi.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu). I recently graduated from the [University of British Columbia](https://www.ubc.ca) with a *Bachelor of Arts, Honours in Economics with High Distinction*. 
 
-My research interests span the fields of labor, public, and macroeconomics. I am particularly interested in the relationship between labor market institutions and earnings inequality. My [Honours Thesis](https://aadsouza.github.io/econ499/Labor_Unions_and_Racial_Wage_Inequality.pdf), written under the supervision of [Professor Nicole M. Fortin](https://economics.ubc.ca/faculty-and-staff/nicole-fortin/) and [Professor M. Marit Rehavi](https://economics.ubc.ca/faculty-and-staff/marit-rehavi/), explored the effects of labor unions on racial wage inequality in the United States.
-
 Pronouns: [he/him/his](https://www.mypronouns.org/he-him).
